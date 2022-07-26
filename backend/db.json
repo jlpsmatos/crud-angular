@@ -1,0 +1,94 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Caneta Preta",
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Borracha Branca",
+      "price": 1.25
+    },
+    {
+      "id": 3,
+      "name": "Lápis Padrão",
+      "price": 2.5
+    },
+    {
+      "name": "Papel A4",
+      "price": 12.5,
+      "id": 4
+    },
+    {
+      "name": "Caneta Azul",
+      "price": 5.1,
+      "id": 5
+    },
+    {
+      "name": "Caneta Vermelha",
+      "price": 5.55,
+      "id": 6
+    },
+    {
+      "name": "Caneta Verde",
+      "price": 5.56,
+      "id": 7
+    },
+    {
+      "name": "Grafite 0.5",
+      "price": 12.55,
+      "id": 8
+    },
+    {
+      "name": "Borracha Azul",
+      "price": 2.45,
+      "id": 9
+    },
+    {
+      "name": "Papel A3",
+      "price": 10,
+      "id": 10
+    },
+    {
+      "name": "Papel A5",
+      "price": 11,
+      "id": 11
+    },
+    {
+      "name": "Papel A6",
+      "price": 14,
+      "id": 12
+    },
+    {
+      "name": "Lápis Ponta Fina",
+      "price": 2,
+      "id": 13
+    },
+    {
+      "name": "Lápis Ponta Grossa",
+      "price": 4,
+      "id": 14
+    },
+    {
+      "name": "Régua",
+      "price": 1.5,
+      "id": 15
+    },
+    {
+      "name": "Régua Média",
+      "price": 5,
+      "id": 16
+    },
+    {
+      "name": "Estojo Simples",
+      "price": 22,
+      "id": 17
+    },
+    {
+      "name": "Adesivo",
+      "price": 1,
+      "id": 18
+    }
+  ]
+}
